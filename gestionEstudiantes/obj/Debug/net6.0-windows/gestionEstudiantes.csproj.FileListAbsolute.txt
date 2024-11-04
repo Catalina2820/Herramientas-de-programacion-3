@@ -1,0 +1,33 @@
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.Form1.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.csproj.GenerateResource.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.AssemblyInfoInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.AssemblyInfo.cs
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\refint\gestionEstudiantes.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.exe
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.deps.json
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.runtimeconfig.json
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.csproj.AssemblyReference.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.genruntimeconfig.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\gestionEstudiantes\obj\Debug\net6.0-windows\ref\gestionEstudiantes.dll
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.exe
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.deps.json
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.runtimeconfig.json
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.dll
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\bin\Debug\net6.0-windows\gestionEstudiantes.pdb
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.Form1.resources
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.csproj.GenerateResource.cache
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.AssemblyInfoInputs.cache
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.AssemblyInfo.cs
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.csproj.CoreCompileInputs.cache
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.dll
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\refint\gestionEstudiantes.dll
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.pdb
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\gestionEstudiantes.genruntimeconfig.cache
+D:\Grabaciones\Herramientas 3\repo\gestionEstudiantes\obj\Debug\net6.0-windows\ref\gestionEstudiantes.dll

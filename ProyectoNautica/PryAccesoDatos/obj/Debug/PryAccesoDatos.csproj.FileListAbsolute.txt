@@ -1,0 +1,35 @@
+C:\Users\Usuario\Downloads\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Usuario\Downloads\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb

@@ -1,0 +1,114 @@
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe.config
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\MaterialSkin.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmSocio.resources
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPrese.DF6B7290.Up2Date
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.exe
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmLogin.resources
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmMenu.resources
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe.config
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\MaterialSkin.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.AssemblyReference.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmLogin.resources
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmMenu.resources
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmSocio.resources
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.Properties.Resources.resources
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.GenerateResource.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.CopyComplete
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.exe
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmPatrones.resources
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe.config
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\MaterialSkin.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.AssemblyReference.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmLogin.resources
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmMenu.resources
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmPatrones.resources
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmSocio.resources
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.Properties.Resources.resources
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.GenerateResource.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPrese.DF6B7290.Up2Date
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.exe
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmPatrones.resources
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe.config
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\MaterialSkin.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.AssemblyReference.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmLogin.resources
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmMenu.resources
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmPatrones.resources
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmSalidas.resources
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmSocio.resources
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.Properties.Resources.resources
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.GenerateResource.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPrese.DF6B7290.Up2Date
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.exe
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmBarcos.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe.config
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.exe
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryPresentacion.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\MaterialSkin.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryEntidades.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryLogicaNegocio.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\bin\Debug\PryAccesoDatos.dll.config
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.AssemblyReference.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmBarcos.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmLogin.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmMenu.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmPatrones.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmSalidas.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.FrmSocio.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.Properties.Resources.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.GenerateResource.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPrese.DF6B7290.Up2Date
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.exe
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryPresentacion\obj\Debug\PryPresentacion.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95697B-9816-491D-985C-871E9FB47431}|AccesoDatos{ED95697B-9816-491D-985C-871E9FB47431}|PryAccesoDatos||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12915986-9AE5-42C8-9775-0F0BAE6A0A98}|PryLogicaNegocio\\PryLogicaNegocio.csproj|g:\\mi unidad\\semestre 9\\herramientas 3\\proyectonautica\\prylogicanegocio\\clssalidasln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12915986-9AE5-42C8-9775-0F0BAE6A0A98}|PryLogicaNegocio\\PryLogicaNegocio.csproj|solutionrelative:prylogicanegocio\\clssalidasln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7878B9EB-A4C1-48E1-86BF-55BCB5EF3D8A}|PryPresentacion\\PryPresentacion.csproj|G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\prypresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7878B9EB-A4C1-48E1-86BF-55BCB5EF3D8A}|PryPresentacion\\PryPresentacion.csproj|solutionrelative:prypresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9B5D87-261D-4571-9D00-B4312EF8AA55}|PryAccesoDatos\\PryAccesoDatos.csproj|G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\pryaccesodatos\\clsaccesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9B5D87-261D-4571-9D00-B4312EF8AA55}|PryAccesoDatos\\PryAccesoDatos.csproj|solutionrelative:pryaccesodatos\\clsaccesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9B5D87-261D-4571-9D00-B4312EF8AA55}|PryAccesoDatos\\PryAccesoDatos.csproj|g:\\mi unidad\\semestre 9\\herramientas 3\\proyectonautica\\pryaccesodatos\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{BA9B5D87-261D-4571-9D00-B4312EF8AA55}|PryAccesoDatos\\PryAccesoDatos.csproj|solutionrelative:pryaccesodatos\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PryAccesoDatos",
+              "DocumentMoniker": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\PryAccesoDatos\\PryAccesoDatos.csproj",
+              "RelativeDocumentMoniker": "PryAccesoDatos\\PryAccesoDatos.csproj",
+              "ToolTip": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\PryAccesoDatos\\PryAccesoDatos.csproj",
+              "RelativeToolTip": "PryAccesoDatos\\PryAccesoDatos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T15:28:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsSalidasLn.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\PryLogicaNegocio\\ClsSalidasLn.cs",
+              "RelativeDocumentMoniker": "PryLogicaNegocio\\ClsSalidasLn.cs",
+              "ToolTip": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\PryLogicaNegocio\\ClsSalidasLn.cs",
+              "RelativeToolTip": "PryLogicaNegocio\\ClsSalidasLn.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:56:53.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\PryPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "PryPresentacion\\Program.cs",
+              "ToolTip": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\PryPresentacion\\Program.cs",
+              "RelativeToolTip": "PryPresentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:26:00.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsAccesoDatos.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\PryAccesoDatos\\ClsAccesoDatos.cs",
+              "RelativeDocumentMoniker": "PryAccesoDatos\\ClsAccesoDatos.cs",
+              "ToolTip": "G:\\Mi unidad\\Semestre 9\\Herramientas 3\\ProyectoNautica\\PryAccesoDatos\\ClsAccesoDatos.cs",
+              "RelativeToolTip": "PryAccesoDatos\\ClsAccesoDatos.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAkwLgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:30:28.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

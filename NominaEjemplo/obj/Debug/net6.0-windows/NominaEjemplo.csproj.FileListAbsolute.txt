@@ -1,0 +1,33 @@
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.csproj.AssemblyReference.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.Form1.resources
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.csproj.GenerateResource.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.AssemblyInfoInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.AssemblyInfo.cs
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.exe
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.deps.json
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.runtimeconfig.json
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\refint\NominaEjemplo.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.genruntimeconfig.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\NominaEjemplo\obj\Debug\net6.0-windows\ref\NominaEjemplo.dll
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.exe
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.deps.json
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.runtimeconfig.json
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.dll
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\bin\Debug\net6.0-windows\NominaEjemplo.pdb
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.Form1.resources
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.csproj.GenerateResource.cache
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.AssemblyInfoInputs.cache
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.AssemblyInfo.cs
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.csproj.CoreCompileInputs.cache
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.dll
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\refint\NominaEjemplo.dll
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.pdb
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\NominaEjemplo.genruntimeconfig.cache
+D:\Grabaciones\Herramientas 3\repo\NominaEjemplo\obj\Debug\net6.0-windows\ref\NominaEjemplo.dll

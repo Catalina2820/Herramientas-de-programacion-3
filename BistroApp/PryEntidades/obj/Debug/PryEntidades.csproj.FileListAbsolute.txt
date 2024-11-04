@@ -1,0 +1,6 @@
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryEntidades\bin\Debug\PryEntidades.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryEntidades\bin\Debug\PryEntidades.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryEntidades\obj\Debug\PryEntidades.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryEntidades\obj\Debug\PryEntidades.pdb

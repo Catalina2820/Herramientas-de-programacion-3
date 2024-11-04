@@ -1,0 +1,60 @@
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogic.EFCCAEF1.Up2Date
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.CopyComplete
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogic.EFCCAEF1.Up2Date
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogic.EFCCAEF1.Up2Date
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryLogicaNegocio.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryAccesoDatos.dll.config
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\bin\Debug\PryEntidades.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.AssemblyReference.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogic.EFCCAEF1.Up2Date
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryLogicaNegocio\obj\Debug\PryLogicaNegocio.pdb

@@ -1,0 +1,7 @@
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\BistroApp\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb

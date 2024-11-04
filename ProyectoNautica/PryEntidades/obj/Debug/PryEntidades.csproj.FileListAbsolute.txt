@@ -1,0 +1,30 @@
+C:\Users\Usuario\Downloads\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\Usuario\Downloads\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\Usuario\Downloads\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\pipeo\Downloads\ProyectoNautica (1)\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\liliana.garciaa\Documents\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\liliana.garciaa\Desktop\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryEntidades\bin\Debug\PryEntidades.pdb
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.dll
+G:\Mi unidad\Semestre 9\Herramientas 3\ProyectoNautica\PryEntidades\obj\Debug\PryEntidades.pdb
